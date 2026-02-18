@@ -79,5 +79,5 @@ PenneMod is a mod made by [Peyton (penne)](https://github.com/penne-not-pasta/).
 
 <details>
 <summary>Q: Where Can I download PenneMod?</summary>
-PenneMod Can be downloaded from either [itch.io](https://penne-not-pasta.itch.io/penne-mod) **OR** from [GitHub](https://github.com/penne-not-pasta/PenneMod/releases)
+PenneMod Can be downloaded from either itch.io OR from GitHub
 </details>
