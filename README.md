@@ -74,7 +74,7 @@ The code here is open source and licensed under MIT License. It is open to contr
 
 <details>
 <summary>Q: What Is *PenneMod*?</summary>
-PenneMod is a mod made by [Peyton (penne)](https://github.com/penne-not-pasta/). PenneMod was created to give all players a fair chance to win in Among Us, Fun **FREE** Accessories + skins, new music, and much more! This README file is a bigger PenneMod Guidebook than the itch.io page that is to make the mod look nice!
+PenneMod is a mod made by Peyton (penne). PenneMod was created to give all players a fair chance to win in Among Us, Fun **FREE** Accessories + skins, new music, and much more! This README file is a bigger PenneMod Guidebook than the itch.io page that is to make the mod look nice!
 </details>
 
 <details>
