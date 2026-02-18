@@ -1,0 +1,13 @@
+# ZIP ARCHIVES.
+DillyzRoleApi_2.1.1_BepInExBundle.zip
+# FILES.
+*.env
+*.log
+paths.txt
+# FOLDERS/DIRECTORIES.
+/node_modules
+/.zed
+/.vscode
+/.net
+/.idea
+/GAME-FOLDER
